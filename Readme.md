@@ -10,3 +10,5 @@
 
 3. - Запустить `install.bat`, или:
    - `python -m pip install -e .`
+
+All rewards to [@denballkh](https://github.com/denballakh)
